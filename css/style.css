@@ -59,6 +59,19 @@ body             {
                    margin-top:8px; 
                    margin-bottom:8px; 
                  } 
+.switcher        { 
+                   text-align:center; 
+                   font-size:15px; 
+                   font-weight:bold; 
+                   border:solid; 
+                   border-width:2px; 
+                   border-color:goldenrod; 
+                   border-radius:10px; 
+                   padding-top:8px; 
+                   padding-bottom:8px; 
+                   margin-top:8px; 
+                   margin-bottom:8px; 
+                 } 
 p                { 
                    margin-top:8px; 
                    margin-bottom:8px; 
